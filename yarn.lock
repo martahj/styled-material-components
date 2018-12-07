@@ -1632,6 +1632,7 @@ eslint-config-airbnb@^14.0.0:
 eslint-config-concierge-auctions-base@^0.0.5:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/eslint-config-concierge-auctions-base/-/eslint-config-concierge-auctions-base-0.0.6.tgz#2b08b4e6d8aa3de6d950b51d801e635e50cc873e"
+  integrity sha1-Kwi05tiqPebZULUdgB5jXlDMhz4=
   dependencies:
     eslint-config-airbnb "^14.0.0"
     eslint-plugin-flowtype "^2.30.0"
